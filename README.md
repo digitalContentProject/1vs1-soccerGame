@@ -1,4 +1,4 @@
-# ⚽️ 유니티를 이용한 3D 1vs1 축구게임 제작 ⚽️
+# ⚽️ 유니티를 이용한 3D 1vs1 축구게임 프로젝트 ⚽️
 
 
 <div id="2"></div>
@@ -12,30 +12,37 @@
 
 ## 📲 주요 기능
 
-- player 1 
-->  w a s d 키로 이동 
--> space 바로 슈팅
-   
-- player 2 
--> 방향키로 이동
--> right shift 키로 슈팅
-
-- 유니티 애니메이션 활용
+- Player 1
+   - 이동 : W A S D  
+   - 슈팅 : Left Space bar
+  
+- Player 2
+   - 이동 : 방향키
+   - 슈팅 : Right Shift bar
+  
+- Unity 애니메이션 활용
 <br />
 
 ## 📺 게임 화면
 
-### ✅ 시작화면 : 컴퓨터 하나로 즐기는 local 모드 & Photon을 사용한 멀티모드
+### ✅ 게임시작 화면 
 <img src="https://github.com/digitalContentProject/1vs1-soccerGame/assets/105621255/a870e97f-24d3-414a-aa71-6aa4ae349ada" width="400" />
 
-### 🙋🏻‍♂️ Local 모드 화면
+### 🙋🏻‍♂️ Local 모드 화면 : 하나의 컴퓨터 즐기는 Local 모드
+#### 게임화면
 <img src="https://github.com/digitalContentProject/1vs1-soccerGame/assets/105621255/ceec1f1b-c554-4109-87b6-f1728dc50cdb" width="400" />
 
-### 🙋🏻‍♂️🙋🏻‍♂️ Multi 모드 화면
+### 🙋🏻‍♂️🙋🏻‍♂️ Multi 모드 화면 :  다른 유저와 방을 만들어 대결
+- Photon 을 활용
+#### 방생성
 <img src="https://github.com/digitalContentProject/1vs1-soccerGame/assets/105621255/8e1c79c8-b32d-4f55-ac3d-09cbe5c881a8" width="400" />
-<img src="https://github.com/digitalContentProject/1vs1-soccerGame/assets/105621255/b45bf7ec-cdf9-424a-89bb-81a409948f0a" width="400" />
 
-### ⚽️ 게임플레이 화면
+#### 게임화면
+<img src="https://github.com/digitalContentProject/1vs1-soccerGame/assets/105621255/ceec1f1b-c554-4109-87b6-f1728dc50cdb" width="400" />
+
+
+  
+### ⚽️ 플레이 영상
 <img src="https://github.com/digitalContentProject/1vs1-soccerGame/assets/105621255/1da606e2-7621-4042-9841-dd11c6d4b766" width="600" />
 <br/>
 
